@@ -1,0 +1,92 @@
+{% extends "_base.html" %}
+{% set titulek = 'MAZELI – autoservis a pneuservis Považská Bystrica' %}
+{% set cesta = '' %}
+{% block obsah %}
+<section class="hero">
+  <div class="hero-foto">{{ img('foto-07.jpg', 'Dielňa autoservisu MAZELI so zdvíhacími plošinami a diagnostikou', sizes='100vw', cls='cover') }}</div>
+  <div class="wrap hero-obsah">
+    <p class="stitok">Autoservis · Pneuservis · Predaj pneumatík</p>
+    <h1>Vaše auto v rukách, ktorým môžete veriť</h1>
+    <p class="uvod">Komplexný servis osobných, dodávkových aj nákladných vozidiel v Považskej Bystrici: od diagnostiky a STK po pneumatiky a klampiarske práce.</p>
+    <div class="cta">
+      <a class="tlacitko" href="#kontakt">Objednať termín</a>
+      <a class="tlacitko druhe" href="tel:+421918915250">Servis: +421 918 915 250</a>
+    </div>
+    <ul class="fakta" role="list">
+      <li><strong>Po–Pia</strong> 7:00 – 15:30</li>
+      <li><strong>Náhradné vozidlo</strong> počas poistnej udalosti cez PZP zadarmo</li>
+      <li><strong>Testery schválené STK</strong></li>
+    </ul>
+  </div>
+</section>
+
+<section class="sekce" id="autoservis">
+  <div class="wrap">
+    <div class="hlava"><p class="stitok">Autoservis</p><h2>Kompletné služby autoservisu</h2>
+    <p>Pracujeme s dôrazom na kvalitu, spoľahlivosť a individuálny prístup. Počas opravy vám vieme zabezpečiť náhradné vozidlo.</p></div>
+    <ul class="mriezka" role="list">
+      {% for s in data.sluzby %}<li><h3>{{ s.nazev }}</h3><p>{{ s.popis }}</p></li>{% endfor %}
+    </ul>
+  </div>
+</section>
+
+<section class="sekce tmava" id="pneuservis">
+  <div class="wrap dva">
+    <div>
+      <p class="stitok">Pneuservis</p>
+      <h2>Kompletné služby pneuservisu</h2>
+      <p>Pre osobné, nákladné aj špeciálne vozidlá: od výmeny a dodávky pneumatík a diskov až po servis TPMS a ochranu proti defektom. Dbáme na bezpečnosť, kvalitu a dlhú životnosť pneumatík.</p>
+      <ul class="zoznam" role="list">
+        {% for p in data.pneu %}<li>{{ p }}</li>{% endfor %}
+      </ul>
+      <p class="poznamka">Predaj pneumatík: <a href="mailto:pneumatiky@mazeli.sk">pneumatiky@mazeli.sk</a></p>
+    </div>
+    <div class="foto">{{ img('foto-08.jpg', 'Pneuservisná linka s montážnou a vyvažovacou technikou', sizes='(min-width: 60rem) 36rem, 100vw') }}</div>
+  </div>
+</section>
+
+<section class="sekce" id="elektro">
+  <div class="wrap">
+    <div class="hlava"><p class="stitok">Elektromobily</p><h2>Nová generácia elektrických ľahkých úžitkových vozidiel</h2></div>
+    <ul class="elektro" role="list">
+      {% for e in data.elektro %}<li>{{ img(e.foto, e.nazev, sizes='(min-width: 60rem) 16rem, 50vw') }}<h3>{{ e.nazev }}</h3><p>{{ e.popis }}</p></li>{% endfor %}
+    </ul>
+    <p class="poznamka">Montujeme aj kvalitné ťažné zariadenia výrobcov Galia, Auto-Hak, Steinhof a Bosal. Na presnú kalkuláciu nás kontaktujte.</p>
+  </div>
+</section>
+
+<section class="sekce svetla" id="galeria">
+  <div class="wrap">
+    <div class="hlava"><p class="stitok">Galéria</p><h2>Pozrite sa k nám do dielne</h2></div>
+    <div class="galeria">
+      {% for n in ['foto-05','foto-06','foto-09','foto-10','foto-11','foto-12','foto-14','foto-15'] %}
+      {{ img(n ~ '.jpg', 'Interiér servisu MAZELI v Považskej Bystrici', sizes='(min-width: 60rem) 24rem, 50vw') }}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="sekce" id="kontakt">
+  <div class="wrap dva">
+    <div>
+      <p class="stitok">Kontakt</p>
+      <h2>Nemeškajte a objednajte sa ešte dnes</h2>
+      <address>
+        <strong>MAZELI, s.r.o.</strong><br>
+        Považské Podhradie 376<br>017 04 Považská Bystrica<br>
+        IČO: 36332691 · IČ DPH: SK2021780409
+      </address>
+      <ul class="kontakty" role="list">
+        <li><span>Servis</span><a href="tel:+421918915250">+421 918 915 250</a> · <a href="mailto:mazeli@mazeli.sk">mazeli@mazeli.sk</a></li>
+        <li><span>Pneumatiky (e-shop)</span><a href="mailto:pneumatiky@mazeli.sk">pneumatiky@mazeli.sk</a></li>
+        <li><span>Náhradné diely</span>Maroš Liška, <a href="tel:+421902353908">+421 902 353 908</a></li>
+        <li><span>Konateľ</span>Ivan Liška, <a href="tel:+421908797733">+421 908 797 733</a></li>
+        <li><span>Otváracia doba</span>Pondelok – Piatok 7:00 – 15:30</li>
+      </ul>
+    </div>
+    <div>
+      {% include "_formular.html" %}
+    </div>
+  </div>
+</section>
+{% endblock %}

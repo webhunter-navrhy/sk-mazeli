@@ -1,0 +1,57 @@
+{
+  "slug": "mazeli",
+  "nazev": "MAZELI, s.r.o.",
+  "url": "https://webhunter-navrhy.github.io/mazeli/",
+  "base": "/mazeli/",
+  "lang": "sk",
+  "popis": "Autoservis a pneuservis v Považskej Bystrici: diagnostika, STK, geometria, pneumatiky, klampiarstvo a poistné udalosti na jednom mieste.",
+  "navrh": true,
+  "domena": "",
+  "og_image": "foto-07.jpg",
+  "logo": "logo.png",
+  "theme_color": "#2c2f7a",
+  "typ": "AutoRepair",
+  "ico": "36332691",
+  "kontakt": {
+    "email": "mazeli@mazeli.sk",
+    "telefon": "+421 918 915 250",
+    "adresa": {
+      "ulice": "Považské Podhradie 376",
+      "psc": "017 04",
+      "mesto": "Považská Bystrica",
+      "zeme": "SK"
+    }
+  },
+  "oteviraci_doba": [],
+  "sameas": [
+    "https://www.facebook.com/profile.php?id=100063595496831"
+  ],
+  "cenove_rozpeti": "",
+  "formular": {
+    "endpoint": "",
+    "demo": true,
+    "predmet": "Objednávka z webu mazeli.sk"
+  },
+  "nav": [
+    {
+      "text": "Autoservis",
+      "href": "#autoservis"
+    },
+    {
+      "text": "Pneuservis",
+      "href": "#pneuservis"
+    },
+    {
+      "text": "Elektromobily",
+      "href": "#elektro"
+    },
+    {
+      "text": "Galéria",
+      "href": "#galeria"
+    },
+    {
+      "text": "Kontakt",
+      "href": "#kontakt"
+    }
+  ]
+}

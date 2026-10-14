@@ -1,0 +1,50 @@
+[
+ {
+  "nazev": "Diagnostika vozidiel",
+  "popis": "Diagnostiku robíme na prístrojoch Bosch, Delphi, Texa, TOPDON a OE Diagnostiky."
+ },
+ {
+  "nazev": "Servisné prehliadky",
+  "popis": "Vozidlo skontrolujeme od A po Z podľa najazdených kilometrov a predpisov výrobcu."
+ },
+ {
+  "nazev": "Brzdy",
+  "popis": "Kontrola platničiek, kotúčov, bubnov a čeľustí, strmeňov, potrubia a hadičiek, premeranie brzdovej kvapaliny."
+ },
+ {
+  "nazev": "3D geometria podvozku",
+  "popis": "Geometriu je vhodné kontrolovať raz ročne alebo po náraze. Zlá geometria sa prejaví nerovnomerným opotrebením pneumatík."
+ },
+ {
+  "nazev": "Podvozok a STK testery",
+  "popis": "Máme testery schválené STK: test náprav a riadenia, brzdových valcov a tlmičov. Vozidlo vieme pripraviť a previesť cez STK."
+ },
+ {
+  "nazev": "Kvapaliny a rozvody",
+  "popis": "Výmena všetkých prevádzkových kvapalín a rozvodových sád podľa intervalov výrobcu, vrátane vodnej pumpy."
+ },
+ {
+  "nazev": "Klimatizácie",
+  "popis": "Servis a dezinfekcia klimatizácie. Kontrola sa odporúča raz za tri roky, dezinfekcia raz ročne."
+ },
+ {
+  "nazev": "Autoelektrika",
+  "popis": "Elektroservis vozidiel, opravy elektroinštalácie, zabezpečenie vozidiel, montáž autorádií a ťažných zariadení."
+ },
+ {
+  "nazev": "Klampiarstvo a lakovanie",
+  "popis": "Kompletné karosárske a lakovacie práce. Na ťažšie poškodenia po nehodách máme rovnaciu stolicu."
+ },
+ {
+  "nazev": "Výfuky a nástreky",
+  "popis": "Výmeny a zváračské práce na výfukovom potrubí, ochranné nástreky podvozkov a rámov."
+ },
+ {
+  "nazev": "Leptanie skiel – VIN",
+  "popis": "Vyleptanie VIN čísla na sklá, poisťovňami schválená forma zabezpečenia vozidla."
+ },
+ {
+  "nazev": "Poistné udalosti",
+  "popis": "Likvidáciu robíme vo všetkých poisťovniach v SR. Po oprave vozidlo prevezmete na základe krycieho listu bez vašej platby."
+ }
+]

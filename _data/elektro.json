@@ -1,0 +1,22 @@
+[
+ {
+  "nazev": "JM7001 Syneriq",
+  "popis": "Osobné elektrické vozidlo pre mestskú i prímestskú prevádzku",
+  "foto": "foto-01.jpg"
+ },
+ {
+  "nazev": "Sevic V500e",
+  "popis": "Ľahké úžitkové vozidlo",
+  "foto": "foto-02.jpg"
+ },
+ {
+  "nazev": "Sevic WST-001",
+  "popis": "Ľahké komunálne úžitkové vozidlo",
+  "foto": "foto-03.jpg"
+ },
+ {
+  "nazev": "TEV Cargoniq",
+  "popis": "Ľahké úžitkové vozidlo",
+  "foto": "foto-04.jpg"
+ }
+]

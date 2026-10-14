@@ -1,0 +1,425 @@
+{
+ "slug": "mazeli",
+ "zdroj_url": "http://www.mazeli.sk",
+ "firma": "MAZELI, s.r.o.",
+ "obor": [
+  "autoservis / auta",
+  "stavebnictví a řemesla"
+ ],
+ "ico": "36332691",
+ "ares": {
+  "chyba": "ARES HTTP 404"
+ },
+ "kontakty": {
+  "emaily": [
+   "mazeli@mazeli.sk",
+   "pneumatiky@mazeli.sk"
+  ],
+  "telefony": [
+   "+421 902 353 908",
+   "+421 903 243 573",
+   "+421 908 797 733",
+   "+421 917 119 655",
+   "+421 917 484 566",
+   "+421 918 915 250"
+  ],
+  "adresa": "",
+  "socialni_site": [
+   "https://www.facebook.com/profile.php?id=100063595496831&ref=embed_page#",
+   "https://www.youtube.com/watch?v=gWGjmtuNLbE",
+   "https://www.youtube.com/watch?v=r_xbD9y9Fao"
+  ]
+ },
+ "logo": {
+  "soubor": "podklady/logo.png",
+  "zdroj": "https://mazeli.sk/wp-content/uploads/2026/02/MAZELI-logo-Q-480x140.png",
+  "rozmery": [
+   480,
+   140
+  ]
+ },
+ "barvy": {
+  "css_promenne": {},
+  "z_css": [
+   "#2098d1",
+   "#c20016",
+   "#ff4500",
+   "#25d366",
+   "#2c2f7a",
+   "#026466"
+  ],
+  "z_loga": [
+   "#2c2f7a",
+   "#8d123c",
+   "#5a83bf"
+  ],
+  "theme_color": null,
+  "doporucene": [
+   "#2c2f7a",
+   "#8d123c",
+   "#2098d1",
+   "#c20016"
+  ]
+ },
+ "fotky": [
+  {
+   "soubor": "podklady/foto/foto-01.jpg",
+   "url": "https://mazeli.sk/wp-content/uploads/2026/02/jm7001-syneriq-000-480x480.jpg",
+   "sirka": 480,
+   "vyska": 480,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-02.jpg",
+   "url": "https://mazeli.sk/wp-content/uploads/2026/02/sevic-v500e-001-480x480.jpg",
+   "sirka": 480,
+   "vyska": 480,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-03.jpg",
+   "url": "https://mazeli.sk/wp-content/uploads/2026/02/sevic-wst-01-001-480x480.jpg",
+   "sirka": 480,
+   "vyska": 480,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-04.jpg",
+   "url": "https://mazeli.sk/wp-content/uploads/2026/02/tev-cargoniq-001-480x342.jpg",
+   "sirka": 480,
+   "vyska": 342,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-05.jpg",
+   "url": "https://mazeli.sk/wp-content/uploads/2026/01/DJI_0296_297_298_299_300-min-480x320.jpg",
+   "sirka": 480,
+   "vyska": 320,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-06.jpg",
+   "url": "https://mazeli.sk/wp-content/uploads/2026/01/DSC_6371_2_3-min-480x318.jpg",
+   "sirka": 480,
+   "vyska": 318,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-07.jpg",
+   "url": "https://mazeli.sk/wp-content/uploads/2026/01/DSC_6374_5_6-min-480x318.jpg",
+   "sirka": 480,
+   "vyska": 318,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-08.jpg",
+   "url": "https://mazeli.sk/wp-content/uploads/2026/01/DSC_6380_1_2-min-480x318.jpg",
+   "sirka": 480,
+   "vyska": 318,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-09.jpg",
+   "url": "https://mazeli.sk/wp-content/uploads/2026/01/DSC_6386_7_8-min-480x318.jpg",
+   "sirka": 480,
+   "vyska": 318,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-10.jpg",
+   "url": "https://mazeli.sk/wp-content/uploads/2026/01/DSC_6392_3_4-min-480x318.jpg",
+   "sirka": 480,
+   "vyska": 318,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-11.jpg",
+   "url": "https://mazeli.sk/wp-content/uploads/2026/01/DSC_6395_6_7-min-480x318.jpg",
+   "sirka": 480,
+   "vyska": 318,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-12.jpg",
+   "url": "https://mazeli.sk/wp-content/uploads/2026/01/DSC_6398_399_400-min-480x318.jpg",
+   "sirka": 480,
+   "vyska": 318,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-13.jpg",
+   "url": "https://mazeli.sk/wp-content/uploads/2026/01/DSC_6401_2_3-min-480x318.jpg",
+   "sirka": 480,
+   "vyska": 318,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-14.jpg",
+   "url": "https://mazeli.sk/wp-content/uploads/2026/01/DSC_6404_5_6-min-480x318.jpg",
+   "sirka": 480,
+   "vyska": 318,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-15.jpg",
+   "url": "https://mazeli.sk/wp-content/uploads/2026/01/DSC_6407_8_9-min-480x318.jpg",
+   "sirka": 480,
+   "vyska": 318,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-16.jpg",
+   "url": "https://mazeli.sk/wp-content/uploads/2026/01/DSC_6410_1_2-min-480x318.jpg",
+   "sirka": 480,
+   "vyska": 318,
+   "alt": ""
+  }
+ ],
+ "fakta": [
+  {
+   "typ": "h1",
+   "text": "Autoservis & Pneuservis",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Kompletné služby autoservisu",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Náhradné vozidlo",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Nová generácia elektrických ľahkých úžitkových vozidiel",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "JM7001 Syneriq",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Sevic V500e",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Sevic WST-001",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "TEV Cargoniq",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Montujeme kvalitné ťažné zariadenia výrobcov Galia a Auto-Hak, Steinhof a Bosal",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Kompletné služby pneuservisu",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Galeria",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Nemeškajte a objednajte sa ešte dnes",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Kontaktujte nás",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Komplexný autoservis – výmena kvapalín, brzdy, podvozok, klimatizácie, diagnostika, STK, autosklá, autoelektrika a poistné udalosti.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Poskytujeme komplexné autoservisné služby pre osobné, dodávkové aj nákladné vozidlá – od bežnej údržby a diagnostiky až po opravy, STK a karosárske práce. Počas opravy vám vieme zabezpečiť náhradné vozidlo. Pracujeme s dôrazom na kvalitu, spoľahlivosť a individuálny prístup ku každému zákazníkovi.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Výmena prevádzkových kvapaliny Vykonáváme výmenu všetkých prevádzkových kapalín. Motorový, prevodový olej, brzdová kvapalina, nemrznúca zmes.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Vykonáváme výmenu všetkých prevádzkových kapalín. Motorový, prevodový olej, brzdová kvapalina, nemrznúca zmes.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Servis bŕzd Obsahuje kontrolu platničiek, kotúčov, bubnov a čeľustí, brzdových strmeňov, segmentov, potrubia, hadičiek, premeranie brzdovej kvapaliny.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Obsahuje kontrolu platničiek, kotúčov, bubnov a čeľustí, brzdových strmeňov, segmentov, potrubia, hadičiek, premeranie brzdovej kvapaliny.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Servis výfukových systémov Výmeny a zváračské práce na výfukovom potrubí.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "3D geometria podvozku Geometriu je vhodné kontrolovať raz ročne alebo po náraze. Zlá geometria sa prejavuje nerovnomerným opotrebením pneumatík a ťahaním vozidla do strany.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Geometriu je vhodné kontrolovať raz ročne alebo po náraze. Zlá geometria sa prejavuje nerovnomerným opotrebením pneumatík a ťahaním vozidla do strany.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Servis klimatizácií Správne fungujúca klimatizácia znižuje náklady na prevádzku vozidla. Ak sa jej nevenuje dostatočná starostlivosť, dochádzajú postupom času zbytočné výdavky za opravy. Kontrola klimatizácie sa odporúča raz za tri roky. Dezinfekcia sa odporúča 1x ročne.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Správne fungujúca klimatizácia znižuje náklady na prevádzku vozidla. Ak sa jej nevenuje dostatočná starostlivosť, dochádzajú postupom času zbytočné výdavky za opravy. Kontrola klimatizácie sa odporúča raz za tri roky. Dezinfekcia sa odporúča 1x ročne.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Príprava a prevedenie cez STK Zbavíme Vás starostí a šetríme váš drahocenný čas. Vaše vozidlo pripravíme a prevedieme cez STK.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Zbavíme Vás starostí a šetríme váš drahocenný čas. Vaše vozidlo pripravíme a prevedieme cez STK.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Servisné prehliadky vozidel Vaše vozidlo podrobíme kontrole od A po Z podľa stavu najazdených km a predpisov výrobcov.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Vaše vozidlo podrobíme kontrole od A po Z podľa stavu najazdených km a predpisov výrobcov.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Servis podvozkových částí Vlastníme testery schválené STK. Vykonávame: test náprav a riadenia na hydraulickom testeri, test na brzdových valcoch, test tlmičov.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Vlastníme testery schválené STK. Vykonávame: test náprav a riadenia na hydraulickom testeri, test na brzdových valcoch, test tlmičov.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Výmeny rozvodových sád Je nutné dodržiavať presné výmenné intervaly dané výrobcom vozidla a netreba zabúdať aj na vodnú pumpu. Radšej skôr ako riskovať poškodenie motora.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Je nutné dodržiavať presné výmenné intervaly dané výrobcom vozidla a netreba zabúdať aj na vodnú pumpu. Radšej skôr ako riskovať poškodenie motora.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Leptanie skiel - VIN Chráňte svoje vozidlo vyleptaním VIN čísla na sklá automobilu. Schválené poisťovňami ako jedna z variant zabezpečenia.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Chráňte svoje vozidlo vyleptaním VIN čísla na sklá automobilu. Schválené poisťovňami ako jedna z variant zabezpečenia.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Klampiarstvo, zváranie, lakovanie Vykonávame kompletné karosárske a lakovacie práce. Vlastníme rovnaciu stolicu na ťažšie poškodenia pri nehodách.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Vykonávame kompletné karosárske a lakovacie práce. Vlastníme rovnaciu stolicu na ťažšie poškodenia pri nehodách.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Nástrek podvozkov Ochranné nástreky podvozkov a rámov vozidiel kvalitnými prípravkami s dostatočným množstvom materiálu.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Ochranné nástreky podvozkov a rámov vozidiel kvalitnými prípravkami s dostatočným množstvom materiálu.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Riešenie poistných udalostí Poskytujeme kompletnú likvidáciu poistných udalostí vo všetkých poisťovniach v SR. Naším cieľom je Vám celý tento proces uľahčiť. Po oprave si vozidlo prevezmete na základe krycieho listu. Nieje potrebná Vaša platba.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Poskytujeme kompletnú likvidáciu poistných udalostí vo všetkých poisťovniach v SR. Naším cieľom je Vám celý tento proces uľahčiť. Po oprave si vozidlo prevezmete na základe krycieho listu. Nieje potrebná Vaša platba.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Autoelektrikárske práce Vykonávame tieto služby: kompletný elektroservis vozidiel, opravy elektroinštalácie, zabezpečenie vozidiel, montáž autorádií, ťažné zariadenia.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Vykonávame tieto služby: kompletný elektroservis vozidiel, opravy elektroinštalácie, zabezpečenie vozidiel, montáž autorádií, ťažné zariadenia.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Diagnostika vozidiel Diagnostiku vozidiel vykonávame na diagnostických prístrojoch Bosch, Delphi, Texa, TOPDON a OE Diagnostiky.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Diagnostiku vozidiel vykonávame na diagnostických prístrojoch Bosch, Delphi, Texa, TOPDON a OE Diagnostiky.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Počas riešenia poistnej udalosti cez PZP – náhradné vozidlo ZADARMO.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Osobné elektrické vozidlo pre mestskú i prímestskú prevádzku",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Poskytujeme kompletné pneuservisné služby pre osobné, nákladné aj špeciálne vozidlá – od výmeny a dodávky pneumatík a diskov až po opravy, servis TPMS a ochranu proti defektom. Zabezpečujeme sezónne uskladnenie pneumatík, hustenie dusíkom aj ekologickú likvidáciu s dôrazom na bezpečnosť, kvalitu a dlhú životnosť pneumatík.",
+   "zdroj": "https://mazeli.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "MAZELI, s.r.o. Považské Podhradie 376, 017 04 Považská Bystrica IČO: 36332691, IČ DPH: SK2021780409",
+   "zdroj": "https://mazeli.sk/"
+  }
+ ],
+ "chybi": [
+  "adresa / provozovna",
+  "potvrzení služeb a ceníku (nic nevymýšlet)"
+ ],
+ "popis_webu": ""
+}
